@@ -1,0 +1,7 @@
+<!--pages/pay/pay.wxml-->
+<text>href: {{href}}</text>
+<text>hash: {{hash}}</text>
+<text>uuid: {{uuid}}</text>
+<text>webview带给当前页面的参数是：{{paramsToString}}</text>
+<button bindtap="handleClickSuccess">成功</button>
+<button bindtap="handleClickFailure">失败</button>

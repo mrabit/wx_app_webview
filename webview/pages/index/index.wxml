@@ -1,0 +1,3 @@
+<view>
+  <web-view src="{{visitUrl}}"></web-view>
+</view>

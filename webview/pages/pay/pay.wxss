@@ -1,0 +1,9 @@
+/* pages/pay/pay.wxss */
+
+text {
+  display: block;
+}
+
+button {
+  margin-top: 40rpx;
+}
